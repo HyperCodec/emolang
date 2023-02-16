@@ -39,4 +39,4 @@ Simple python Hello World script (from [example.emo](example.emo)):
 💀💀👌💀👌💀💀👌
 ```
 
-To run this, you would first compile by doing `emo example.emo` and then do `python example.bin`
+To run this, you would first compile by doing `emo example.emo` and then run it via the python interpreter with `python example.bin`
